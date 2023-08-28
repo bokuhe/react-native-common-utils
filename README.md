@@ -1,17 +1,17 @@
-# @sleiv/react-native-common-utils
+# react-native-common-utils
 
 Provide a common utils to react-native
 
 ## Installation
 
 ```sh
-npm install @sleiv/react-native-common-utils
+yarn add @sleiv/react-native-common-utils
 ```
 
 ## Usage
 
 ```js
-import AppNavigator from '@sleiv/react-native-common-utils';
+import { AppNavigator } from '@sleiv/react-native-common-utils';
 
 // ...
 AppNavigator.exitApp().catch((e) => {
