@@ -4,8 +4,17 @@ Provide a common utils to react-native
 
 ## Installation
 
+<!--
 ```sh
 yarn add @sleiv/react-native-common-utils
+```
+-->
+```sh
+yarn add https://github.com/bokuhe/react-native-common-utils.git
+
+or
+
+npm install https://github.com/bokuhe/react-native-common-utils.git
 ```
 
 ## Usage
